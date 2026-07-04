@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anushraj01/leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anushraj01/leetcode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anushraj01/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anushraj01/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
