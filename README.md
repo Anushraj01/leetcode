@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anushraj01/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushraj01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushraj01/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Anushraj01/leetcode/tree/master/0035-search-insert-position) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anushraj01/leetcode/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Anushraj01/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
